@@ -46,8 +46,7 @@ Click the "Fork" button at the top-right corner of this repository.
 
 Clone the Forked Repository:
 
-bash
-Copy code
+
 git clone https://github.com/your-username/DSA-Practice.git
 Create a New Branch:
 
@@ -72,7 +71,7 @@ Click on "Compare & Pull Request".
 Add a description of your changes.
 📂 Repository Structure
 bash
-Copy code
+
 📦 DSA-Practice
 ├── 📂 Arrays
 │   ├── Two_Sum.py
