@@ -25,8 +25,8 @@ git clone https://github.com/your-username/DSA-Practice.git
 
 . Navigate to the Directory
 ```bash
-
 cd DSA-Practice
+
 3. Run Solutions
 Run Python, C++, or Java solutions directly with their respective compilers/interpreters.
 
